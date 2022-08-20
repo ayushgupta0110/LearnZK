@@ -1,13 +1,12 @@
 export default {
   github: 'https://github.com/ayushgupta0110/LearnZK',
   docsRepositoryBase: 'https://github.com/shuding/nextra/blob/master',
-  titleSuffix: ' – An Initiative by GetIntoWeb3',
+  titleSuffix: '',
   logo: (
     <>
       <span className="mr-2 font-extrabold hidden md:inline">LearnZK</span>
-      <span className="text-gray-600 font-normal hidden md:inline">
-        | An initiative by GetIntoWeb3
-      </span>
+      {/* <span className="text-gray-600 font-normal hidden md:inline">
+      </span> */}
     </>
   ),
   head: (
@@ -16,8 +15,8 @@ export default {
       <meta name="theme-color" content="#ffffff" />
       <meta name="viewport" content="width=device-width, initial-scale=1.0" />
       <meta httpEquiv="Content-Language" content="en" />
-      <meta name="description" content="LearnZK | An initiative by GetIntoWeb3" />
-      <meta name="og:description" content="LearnZK | An initiative by GetIntoWeb3" />
+      <meta name="description" content="LearnZK - A platform which provides knowledge about ZK" />
+      <meta name="og:description" content="LearnZK - A platform which provides knowledge about ZK" />
       <meta name="twitter:card" content="summary_large_image" />
       <meta name="twitter:image" content="https://nextra.vercel.app/og.png" />
       <meta name="twitter:site:domain" content="nextra.vercel.app" />
