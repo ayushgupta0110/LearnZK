@@ -1,7 +1,7 @@
 export default {
   github: 'https://github.com/ayushgupta0110/LearnZK',
   docsRepositoryBase: 'https://github.com/shuding/nextra/blob/master',
-  titleSuffix: '',
+  titleSuffix: '- Zero Knowledge Resources',
   logo: (
     <>
       <span className="mr-2 font-extrabold hidden md:inline">LearnZK</span>
@@ -15,8 +15,8 @@ export default {
       <meta name="theme-color" content="#ffffff" />
       <meta name="viewport" content="width=device-width, initial-scale=1.0" />
       <meta httpEquiv="Content-Language" content="en" />
-      <meta name="description" content="LearnZK - A platform which provides knowledge about ZK" />
-      <meta name="og:description" content="LearnZK - A platform which provides knowledge about ZK" />
+      <meta name="description" content="LearnZK - Zero Knowledge Resources" />
+      <meta name="og:description" content="LearnZK - Zero Knowledge Resources" />
       <meta name="twitter:card" content="summary_large_image" />
       <meta name="twitter:image" content="https://nextra.vercel.app/og.png" />
       <meta name="twitter:site:domain" content="nextra.vercel.app" />

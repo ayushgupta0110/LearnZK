@@ -1,13 +1,16 @@
 {
+    "start-here": "Start Here",
     "articles_tutorials": "Articles & Tutorials",
     "video_guides": "Video Guides & Talks",
     "books_guides": "Books & Guides",
     "courses": "Courses & Video Series",
+    "developer": "Developer Tools",
     "podcast": "Podcast Episodes",
-    "libraries": "Libraries",
+    "application": "Applications",
+    "libraries": "Language And Libraries",
     "conferences": "Conferences",
     "communities": "Communities",
-    "people": "People",
-    "jobs": "Jobs"
+    "miscellaneous": "Miscellaneous",
+    "extra": "Extra"
 }
   
