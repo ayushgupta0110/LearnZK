@@ -1,22 +1,20 @@
-# [Nextra](https://nextra.vercel.app)
+# [LearnZK](https://learn-zk.vercel.app/)
+**One-stop-destination to learn Zero Knowledge technology**
 
-_Warning: this project is not production ready, API might change without notice._
+## Inspiration
+LearnZK is an open-source platform that curates the best Zero Knowledge resources from the internet. There are very few zk resources out there and we understood that there is a requirement for good zk resources out there. So, we're here to help.
 
-[![](https://vercel.com/button)](https://vercel.com/import/git?s=https%3A%2F%2Fgithub.com%2Fshuding%2Fnextra&c=1)
+## What it does
+LearnZK helps users to get started with zero-knowledge technology and helps developers get proficient with it.
 
-**Nextra** is a [Next.js](https://nextjs.org) and [MDX](https://mdxjs.com) powered, no-code site generator.
+## How we built it
+LearnZK leverages the best zk resources gathered from the internet and aims to help developers make their step into the zk world. 
 
-![](/public/demo.png)
+## Challenges we ran into
+Understanding the zero-knowledge technology and good resources proved to be a massive hurdle since there aren't many valuable resources on the internet about it.
 
-## Development
+## Accomplishments that we're proud of
+We're proud to have accomplished the project in such a short time and look forward to introduce it to the entire world.
 
-The code of Nextra is under the [`core`](https://github.com/shuding/nextra/tree/core) branch.
-
-## Themes
-
-- [nextra-theme-docs](https://github.com/vercel/swr-site) ([demo](https://swr.vercel.app))
-- [nextra-theme-blog](https://github.com/shuding/site) ([demo](https://shud.in))
-
----
-
-Created by [@shuding](https://github.com/shuding) and [@pacocoursey](https://github.com/pacocoursey) at [Vercel](https://vercel.com). Released under the MIT license.
+## What's next for LearnZK
+The next step for LearnZK is to make a community focused towards zero-knowledge and get developers to use it for the betterment of mankind.
