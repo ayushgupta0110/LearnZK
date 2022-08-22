@@ -1,6 +1,6 @@
 export default {
   github: 'https://github.com/ayushgupta0110/LearnZK',
-  docsRepositoryBase: 'https://github.com/ayushgupta0110/LearnZK/tree/main/pages',
+  docsRepositoryBase: 'https://github.com/ayushgupta0110/LearnZK',
   titleSuffix: '- Zero Knowledge Resources',
   logo: (
     <>
