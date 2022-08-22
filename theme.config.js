@@ -1,10 +1,10 @@
 export default {
   github: 'https://github.com/ayushgupta0110/LearnZK',
-  docsRepositoryBase: 'https://github.com/shuding/nextra/blob/master',
+  docsRepositoryBase: 'https://github.com/ayushgupta0110/LearnZK/tree/main/pages',
   titleSuffix: '- Zero Knowledge Resources',
   logo: (
     <>
-      <span className="mr-2 font-extrabold hidden md:inline">LearnZK</span>
+      <span className="mr-2 font-extrabold text-xl hidden md:inline">LearnZK</span>
       {/* <span className="text-gray-600 font-normal hidden md:inline">
       </span> */}
     </>
